@@ -1,0 +1,20 @@
+{
+  "name": "sparkle-dental-care",
+  "version": "1.0.0",
+  "description": "Sparkle Dental Care - Complete Full-Stack Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.5.0"
+  }
+}
